@@ -1,0 +1,473 @@
+body{
+    background-color: rgb(154, 240, 235);
+    
+    font-family: "Hannari";
+}
+.top-container{
+    width: 100%;
+    height: 110vh;
+    position: relative;
+}
+.thema{
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    font-size: 130px;
+    top: 11%;
+    left: 5%;
+    z-index: 2;
+    color: white;
+}
+.top-container video{
+    position: absolute;
+    width: 80%;
+    top: 10%;
+    left: 20%;
+}
+
+
+
+.second-w{
+    display: block;
+    width: 100%;
+    height: 90vh;
+}
+.second-w h2{
+    font-family: 'Lobster', cursive;
+    letter-spacing: 5px;
+    font-size: 50px;
+    color: white;
+    padding-top: 66px;
+    margin-left: 74%;
+}
+.hand{
+    font-size: 60px;
+    color: white;
+    margin-left: 4%;
+}
+.sec-container{
+    margin: 5%;
+    margin-top:10% ;
+    display: flex;
+    justify-content: space-between;
+}
+.img-w{
+    position: relative;
+    width: 50%;
+}
+.red{
+    position: absolute;
+    z-index:2;
+    width: 50%;
+}
+.sebas{
+    position: absolute;
+    top: 98%;
+    left: 45%;
+    z-index: 1;
+    width: 50%;
+}
+.text-right{
+    width: 46%;
+}
+.text-right p{
+    font-size: 19px;
+    color: white;
+}
+
+
+
+.third-w{
+    background-color: #fadce1;
+    width: 100%;
+    height: 150vh;
+}
+.tImg-w{
+    position: relative;
+    height: 100%;
+    margin-left: 10%;
+}
+.im1,.im2,.im3,.im4,.im5,.im6,.im7,#chi-video{
+    position: absolute;
+    width: 400px;
+}
+.im2{
+    top: 12%;
+    left: 50%;
+    z-index: 2;
+    width: 30%;
+}
+.im3{
+    top: 90px;
+    right: 0%;
+    z-index: 1;
+    width: 370px;
+}
+.im4{
+    top: 30%;
+    left: 65%;
+    z-index: 2;
+    width: 30%;
+}
+.im5{
+    top: 30px;
+    left: -5%;
+    width: 50%;
+}
+.im6{
+    top: 40%;
+    left: -10%;
+    width: 24%;
+}
+.im7{
+    top: 60%;
+    left: 11%;
+    width: 50%;
+}
+#chi-video{
+    top: 36%;
+    left: 32%;
+    z-index: 1;
+    width: 400px;
+    height: 200px;
+}
+
+
+
+
+
+.fou-w{
+    position: relative;
+    width: 100%;
+    height: 97vh;
+    background-color: #fadce1;
+}
+.fou2{
+    display: flex;
+    width: 100%;
+}
+.fou2 h2{
+    position: absolute;
+    color: rgb(100, 93, 95);
+    font-size: 27px;
+    font-family: 'Lobster', cursive;
+    top: 10%;
+    left: 50%;
+}
+.fou2 h1{
+    position: absolute;
+    font-family: 'Lobster', cursive;
+    font-size: 74px;
+    letter-spacing: 8px;
+    color: black;
+    top: 43%;
+    left: -10%;
+    transform: rotate(90deg);
+}
+.table{
+    position: absolute;
+    top: 25%;
+    width: 64%;
+    left: 30%;
+}
+.fa{
+    margin-right: 20px;
+}
+.table p{
+    color: black;
+    font-size: 20px;
+    line-height: 120px;
+    letter-spacing: 7px;
+    border-bottom: 1px solid rgb(201, 146, 223);
+    border-top: 1px solid rgb(201, 146, 223);
+}
+
+
+
+
+.fif-w {
+    width: 100%;
+    height: 195vh;
+    position: relative;
+}
+.fif-con{
+    margin: 0 auto;
+    width: 80%;
+    height: 100%;
+}
+.v-one {
+    margin-top: 60px;
+}
+.one {
+    position: relative;
+    display: flex;
+    height: 33%;
+    justify-content: space-between;
+}
+.two{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    top: 30px;
+}
+.three {
+    position: relative;
+    display: flex;
+    height: 29%;
+    justify-content: space-between;
+    top: 22%;
+}
+.p-one {
+    position: absolute;
+    font-family: 'Lobster', cursive;
+    top: 25%;
+    left: 41%;
+    margin-top: 50px;
+    font-size: 110px;
+    letter-spacing: 5px;
+    color: #ff1ec7;
+}
+.p-two{
+    position: relative;
+    white-space: nowrap;
+    font-family: 'Lobster', cursive;
+    left: 0%;
+    /* top: 10%; */
+    font-size: 110px;
+    letter-spacing: 5px;
+    z-index: 3;
+    color: #ff1ec7;
+}
+.v-two {
+    position: absolute;
+    left: 46%;
+    top: 1%;
+    z-index: 2;
+}
+.p-three{
+    position: absolute;
+    white-space: nowrap;
+    font-family: 'Lobster', cursive;
+    font-size: 110px;
+    left: 48%;
+    top: 46%;
+    letter-spacing: 5px;
+    color: #ff1ec7;
+}
+.v-three {
+    
+}
+
+
+
+
+
+
+
+/*-------------------------------------------------重ね合わせセクション*/
+.kokos-w{
+    width: 100%;
+    height: 230vh;
+}
+.text-con{
+    position: relative;
+    width: 96%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.text-con img{
+    position: absolute;
+    width: 50%;
+}
+.quino{
+    top: 10px;
+    left: 48%;
+}
+.tiko{
+    top: 32%;
+    left: 2%;
+}
+.rebec{
+    top: 63%;
+    left: 48%;
+}
+.block1{
+    position: absolute;
+    top: 4%;
+    font-family: serif;
+    text-align: left;
+    left: 12%;
+    line-height: 200%;
+    width: 33%;
+    height: 18%;
+    background-color: #fadce1;
+    color: black;
+    padding: 0 70px;
+    padding-top: 30px;
+}
+.block2{
+    position: absolute;
+    top: 35%;
+    font-family: serif;
+    left: 47%;
+    width: 30%;
+    line-height: 200%;
+    height: 16%;
+    text-align: right;
+    background-color: #fadce1;
+    color: black;
+    padding: 0 70px;
+    padding-top: 30px;
+}
+.block3{
+    position: absolute;
+    top: 68%;
+    left: 15%;
+    font-family: serif;
+    line-height: 200%;
+    text-align: left;
+    width: 30%;
+    height: 18%;
+    background-color: #fadce1;
+    color: black;
+    padding: 0 70px;
+    padding-top: 30px;
+}
+.number1{
+    position: absolute;
+    z-index: 3;
+    font-family: 'Lobster', cursive;
+    top: 20px;
+    left: 40%;
+    font-size: 100px;
+    color: rgb(255, 60, 167);
+}
+.number2{
+    position: absolute;
+    z-index: 3;
+    font-family: 'Lobster', cursive;
+    top: 31%;
+    left: 51%;
+    font-size: 100px;
+    color: rgb(255, 60, 167);
+}
+.number3{
+    position: absolute;
+    z-index: 3;
+    font-family: 'Lobster', cursive;
+    position: absolute;
+    z-index: 3;
+    font-family: 'Lobster', cursive;
+    top: 65%;
+    left: 38%;
+    font-size: 100px;
+    color: rgb(255, 60, 167);
+    font-size: 100px;
+    color: rgb(255, 60, 167);
+}
+/*-------------------------------------------------重ね合わせセクション*/
+
+
+
+
+
+.contact-w{
+    width:100%;
+    height: 80vh;
+    background-color: #fadce1;
+}
+
+.contact-con{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+}
+.main-con{
+    display: flex;
+    height: 100%;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.contact-con h1{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+.main-button{
+    width: 40%;
+    top: -15%;
+    position: relative;
+}
+.con-p{
+    position: absolute;
+    font-size: 30px;
+    left: 30%;
+    top: 40%;
+}
+.contact-con img{
+    width: 93%;
+}
+.con-right{
+    width: 45%;
+    height: 100%;
+}
+
+input{
+    background-color: #fadce1;
+    border: none;
+    margin-top: 8%;
+    width: 45%;
+    border-bottom: 2px solid palevioletred;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+textarea{
+    width: 95%;
+    background-color: #fadce1;
+    border: none;
+    height: 12%;
+    border-bottom: 2px solid palevioletred;
+}
+.con-right button{
+    width: 30%;
+    height: 60px;
+    margin-top: 50px;
+    left: 30%;
+    border: 2px solid palevioletred;
+}
+.submit {
+    padding: 15px 40px;
+    background-color: #fadce1;
+    cursor: pointer;
+    margin-left: 30%;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 7px #a5045d;
+}
+
+.submit:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+}
+
+
+footer{
+    color: palevioletred;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.w_in{
+    margin-top: 30px;
+    display: flex;
+    font-size: 14px;
+    justify-content: space-between;
+}
+.set{
+    text-align: center;
+}
+.set-in{
+    color: white;
+    margin-top: 20px;
+    font-size: 12px;
+}

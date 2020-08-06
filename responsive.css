@@ -1,0 +1,650 @@
+@media screen and (min-width:768px) and ( max-width:1024px){
+    .top-container {
+        width: 100%;
+        height: 50vh;
+        position: relative;
+    }
+    .thema {
+        font-family: 'Lobster', cursive;
+        position: absolute;
+        font-size: 90px;
+        top: 8%;
+        left: 5%;
+        z-index: 2;
+        color: white;
+    }
+    .hand {
+        font-size: 43px;
+        color: white;
+        margin-left: 4%;
+        opacity: 0.1;
+    }
+    .second-w {
+        background-color: rgb(154, 240, 235);
+        display: block;
+        width: 100%;
+        height: 45vh;
+    }
+    .text-right p {
+        font-size: 15px;
+        color: white;
+    }
+    .second-w h2 {
+        font-family: 'Lobster', cursive;
+        letter-spacing: 5px;
+        font-size: 31px;
+        color: white;
+        padding-top: 55px;
+        margin-left: 74%;
+    }
+    .third-w {
+        background-color: #fadce1;
+        width: 100%;
+        height: 70vh;
+    }
+    #chi-video {
+        top: 33%;
+        left: 16%;
+        z-index: 1;
+        width: 400px;
+        height: 200px;
+    }
+    .im2 {
+        top: 12%;
+        left: 37%;
+        z-index: 2;
+        width: 30%;
+    }
+    .im3 {
+        top: 6%;
+        right: 0%;
+        z-index: 1;
+        width: 370px;
+    }
+    .kokos-w {
+        width: 100%;
+        height: 95vh;
+    }
+    .block1 {
+        position: absolute;
+        top: 4%;
+        font-size: 11px;
+        font-family: serif;
+        text-align: left;
+        left: 12%;
+        line-height: 200%;
+        width: 33%;
+        height: 16%;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        padding-top: 30px;
+    }
+    .block1 {
+        position: absolute;
+        top: 4%;
+        font-size: 11px;
+        font-family: serif;
+        text-align: left;
+        left: 12%;
+        line-height: 200%;
+        width: 33%;
+        height: 16%;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        padding-top: 30px;
+    }
+    .block2 {
+        position: absolute;
+        top: 35%;
+        font-size: 11px;
+        font-family: serif;
+        left: 47%;
+        width: 30%;
+        line-height: 200%;
+        height: 16%;
+        text-align: right;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        padding-top: 30px;
+    }
+    .block3 {
+        position: absolute;
+        top: 68%;
+        font-size: 11px;
+        left: 15%;
+        font-family: serif;
+        line-height: 200%;
+        text-align: left;
+        width: 30%;
+        height: 16%;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        padding-top: 30px;
+    }
+
+
+    .fou-w {
+        position: relative;
+        width: 100%;
+        height: 45vh;
+        background-color: #fadce1;
+    }
+    .fou2 h1 {
+        position: absolute;
+        font-family: 'Lobster', cursive;
+        font-size: 40px;
+        letter-spacing: 8px;
+        color: black;
+        top: 43%;
+        left: -12%;
+        transform: rotate(90deg);
+    }
+    .table {
+        position: absolute;
+        top: 25%;
+        width: 64%;
+        left: 25%;
+    }
+    .table p {
+        color: black;
+        font-size: 14px;
+        line-height: 78px;
+        letter-spacing: 5px;
+        border-bottom: 1px solid rgb(201, 146, 223);
+        border-top: 1px solid rgb(201, 146, 223);
+    }
+
+
+    .fif-w {
+        width: 100%;
+        height: 105vh;
+        position: relative;
+    }
+    .two {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        top: 2px;
+    }
+    .v-two {
+        position: absolute;
+        left: 30%;
+        top: 1%;
+        z-index: 2;
+    }
+    .p-one {
+        position: absolute;
+        font-family: 'Lobster', cursive;
+        top: 25%;
+        left: 41%;
+        margin-top: 50px;
+        font-size: 85px;
+        letter-spacing: 5px;
+        color: #ff1ec7;
+    }
+    .p-two {
+        position: relative;
+        white-space: nowrap;
+        font-family: 'Lobster', cursive;
+        left: 0%;
+        top: 10%;
+        font-size: 80px;
+        letter-spacing: 0px;
+        z-index: 3;
+        color: #ff1ec7;
+    }
+    .three {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        top: 20%;
+    }
+    .p-three {
+        position: absolute;
+        white-space: nowrap;
+        font-family: 'Lobster', cursive;
+        font-size: 80px;
+        left: 46%;
+        top: 46%;
+        letter-spacing: 5px;
+        color: #ff1ec7;
+    }
+    .contact-w {
+        width: 100%;
+        height: 40vh;
+        background-color: #fadce1;
+    }
+    .con-p {
+        position: absolute;
+        font-size: 18px;
+        left: 30%;
+        top: 40%;
+    }
+    .con-right input {
+        background-color: #fadce1;
+        border: none;
+        margin-top: 8%;
+        width: 61%;
+        border-bottom: 2px solid palevioletred;
+        margin-right: 20px;
+        margin-bottom: 0px;
+    }
+    textarea {
+        width: 95%;
+        background-color: #fadce1;
+        border: none;
+        margin-top: 32px;
+        height: 20%;
+        border-bottom: 2px solid palevioletred;
+    }
+    .con-right button {
+        width: 30%;
+        height: 40px;
+        margin-top: 34px;
+        left: 30%;
+        border: 2px solid palevioletred;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width:768px){
+    .top-container {
+        width: 100%;
+        height: 58vh;
+        position: relative;
+    }
+    .hand {
+        font-size: 30px;
+        color: white;
+        margin-left: 4%;
+        opacity: 0.1;
+    }
+    .text-right p {
+        font-size: 12px;
+        color: white;
+    }
+    .second-w {
+        background-color: rgb(154, 240, 235);
+        display: block;
+        width: 100%;
+        height: 50vh;
+    }
+    .third-w {
+        background-color: #fadce1;
+        width: 100%;
+        height: 94vh;
+    }
+    .im7 {
+        top: 64%;
+        left: 11%;
+        width: 50%;
+    }
+    .kokos-w {
+        width: 100%;
+        height: 122vh;
+    }
+    .fou-w {
+        position: relative;
+        width: 100%;
+        height: 60vh;
+        background-color: #fadce1;
+    }
+    .fif-w {
+        width: 100%;
+        height: 140vh;
+        position: relative;
+    }
+    .contact-w {
+        width: 100%;
+        height: 55vh;
+        background-color: #fadce1;
+    }
+    .number1 {
+        position: absolute;
+        z-index: 3;
+        font-family: 'Lobster', cursive;
+        top: 20px;
+        left: 40%;
+        font-size: 70px;
+        color: rgb(255, 60, 167);
+    }   
+    .number2 {
+        position: absolute;
+        z-index: 3;
+        font-family: 'Lobster', cursive;
+        top: 31%;
+        left: 51%;
+        font-size: 70px;
+        color: rgb(255, 60, 167);
+    }
+    .number3 {
+        font-size: 70px;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:480px){
+    .top-container {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+    }
+    .thema {
+        font-family: 'Lobster', cursive;
+        position: absolute;
+        font-size: 80px;
+        top: 11%;
+        left: 5%;
+        z-index: 2;
+        color: white;
+    }
+    .second-w h2 {
+        font-family: 'Lobster', cursive;
+        letter-spacing: 5px;
+        font-size: 34px;
+        color: white;
+        padding-top: 66px;
+        margin-left: 74%;
+    }
+    .second-w {
+        background-color: rgb(154, 240, 235);
+        display: block;
+        width: 100%;
+        height: 85vh;
+    }
+    .third-w {
+        background-color: #fadce1;
+        width: 100%;
+        height: 156vh;
+    }
+    #chi-video {
+        top: 33%;
+        left: 18%;
+        z-index: 1;
+        width: 400px;
+        height: 200px;
+    }
+    .im2 {
+        top: 12%;
+        left: 38%;
+        z-index: 2;
+        width: 30%;
+    }
+    .im4 {
+        top: 44%;
+        left: 65%;
+        z-index: 2;
+        width: 30%;
+    }
+    .kokos-w {
+        width: 100%;
+        height: 220vh;
+    }
+    .block1 {
+        position: absolute;
+        top: 4%;
+        font-family: serif;
+        text-align: left;
+        left: 12%;
+        line-height: 200%;
+        width: 33%;
+        height: 16%;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        font-size: 11px;
+        padding-top: 30px;
+    }
+    .block2 {
+        position: absolute;
+        top: 35%;
+        font-size: 11px;
+        font-family: serif;
+        left: 47%;
+        width: 30%;
+        line-height: 200%;
+        height: 16%;
+        text-align: right;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        padding-top: 30px;
+    }
+    .block3 {
+        position: absolute;
+        top: 68%;
+        font-size: 11px;
+        left: 15%;
+        font-family: serif;
+        line-height: 200%;
+        text-align: left;
+        width: 30%;
+        height: 16%;
+        background-color: #fadce1;
+        color: black;
+        padding: 0 70px;
+        padding-top: 30px;
+    }
+    .fou-w {
+        position: relative;
+        width: 100%;
+        height: 110vh;
+        background-color: #fadce1;
+    }
+    .fou2 h1 {
+        position: absolute;
+        font-family: 'Lobster', cursive;
+        font-size: 40px;
+        letter-spacing: 8px;
+        color: black;
+        top: 43%;
+        left: -12%;
+        transform: rotate(90deg);
+    }
+    .table p {
+        color: black;
+        font-size: 12px;
+        line-height: 83px;
+        letter-spacing: 7px;
+        border-bottom: 1px solid rgb(201, 146, 223);
+        border-top: 1px solid rgb(201, 146, 223);
+    }
+
+
+
+    .fif-w {
+        width: 100%;
+        height: 240vh;
+        position: relative;
+    }
+    .v-two {
+        left: 34%;
+        top: -10%;
+    }
+    .p-one {
+        position: absolute;
+        font-family: 'Lobster', cursive;
+        top: 12%;
+        left: 41%;
+        margin-top: 50px;
+        font-size: 75px;
+        letter-spacing: 5px;
+        color: #ff1ec7;
+    }
+    .p-two {
+        position: relative;
+        white-space: nowrap;
+        font-family: 'Lobster', cursive;
+        left: -5%;
+        /* top: 10%; */
+        font-size: 75px;
+        letter-spacing: 0px;
+        z-index: 3;
+        color: #ff1ec7;
+    }
+    .p-three {
+        position: absolute;
+        white-space: nowrap;
+        font-family: 'Lobster', cursive;
+        font-size: 75px;
+        left: 45%;
+        top: 27%;
+        letter-spacing: 5px;
+        color: #ff1ec7;
+    }
+    .contact-w {
+        width: 100%;
+        height: 75vh;
+        background-color: #fadce1;
+    }
+    input {
+        background-color: #fadce1;
+        border: none;
+        margin-top: 5%;
+        width: 68%;
+        border-bottom: 2px solid palevioletred;
+        margin-right: 20px;
+        margin-bottom: 0px;
+    }
+    .contact-con img {
+        width: 87%;
+    }
+    .con-p {
+        position: absolute;
+        font-size: 18px;
+        left: 30%;
+        top: 40%;
+    }
+    .main-button {
+        width: 40%;
+        top: -21%;
+        position: relative;
+    }
+    textarea {
+        width: 95%;
+        background-color: #fadce1;
+        border: none;
+        margin-top: 18px;
+        height: 20%;
+        border-bottom: 2px solid palevioletred;
+    }
+    .con-right button {
+        width: 35%;
+        height: 42px;
+        margin-top: 24px;
+        left: 30%;
+        border: 2px solid palevioletred;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:380px){
+    .top-container {
+        width: 100%;
+        height: 82vh;
+        position: relative;
+    }
+    .second-w {
+        background-color: rgb(154, 240, 235);
+        display: block;
+        width: 100%;
+        height: 71vh;
+    }
+    .third-w {
+        background-color: #fadce1;
+        width: 100%;
+        height: 116vh;
+    }
+    .kokos-w {
+        width: 100%;
+        height: 166vh;
+    }
+    .fou-w {
+        position: relative;
+        width: 100%;
+        height: 77vh;
+        background-color: #fadce1;
+    }
+    .fif-w {
+        width: 100%;
+        height: 120vh;
+        position: relative;
+    }
+    .contact-w {
+        width: 100%;
+        height: 75vh;
+        background-color: #fadce1;
+    }
+    .v-two {
+        position: absolute;
+        left: 46%;
+        top: 110%;
+        z-index: 2;
+    }
+    .one {
+        position: relative;
+        display: flex;
+        top: 6%;
+        justify-content: space-between;
+    }
+    .three {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        top: 35%;
+    }
+    .two {
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        top: 93px;
+    }
+    .con-right button {
+        width: 35%;
+        height: 42px;
+        margin-top: 50px;
+        /* left: 18%; */
+        border: 2px solid palevioletred;
+    }
+}
+
+
+
+@media screen and (max-width:375px){
+    .third-w {
+        background-color: #fadce1;
+        width: 100%;
+        height: 144vh;
+    }
+    .kokos-w {
+        width: 100%;
+        height: 177vh;
+    }
+    .fif-w {
+        width: 100%;
+        height: 151vh;
+        position: relative;
+    }
+    .v-two {
+        left: 20%;
+    }
+    .fif-w {
+        width: 100%;
+        height: 300vh;
+        position: relative;
+    }
+}
